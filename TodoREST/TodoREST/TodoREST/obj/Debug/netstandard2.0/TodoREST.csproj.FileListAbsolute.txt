@@ -1,0 +1,16 @@
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csprojAssemblyReference.cache
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfoInputs.cache
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfo.cs
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csproj.CoreCompileInputs.cache
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.dll
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\ref\TodoREST.dll
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.pdb
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.deps.json
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.dll
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\ref\TodoREST.dll
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.pdb
+D:\Users\Obed Chaca\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\XamlC.stamp
